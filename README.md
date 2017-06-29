@@ -1,5 +1,5 @@
 # basic-portfolio
-This is the second assignment completed for the Houston Coding Bootcamp Delivered by UT Austin. 
+This was the first assignment completed for the Houston Coding Bootcamp Delivered by UT Austin. 
 
 In this assignment, we were required to build a professional portfolio site using HTML/CSS. 
 
