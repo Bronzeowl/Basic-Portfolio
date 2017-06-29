@@ -6,4 +6,4 @@ In this assignment, we were required to build a professional portfolio site usin
 ## Getting Started
 
 Click on the following link to preview the completed assignment.   
-  https://bronzeowl.github.io/Basic-Portfolio
+  https://bronzeowl.github.io/basic-portfolio
